@@ -2,7 +2,7 @@
 title: Community Q&A Monthly Digest - Oct 2020
 date: 2020-10-28
 author: dhmlau
-slug: 2020-oct-slack-qa/
+slug: 2020-oct-slack-qa
 tags: [LoopBack, Community]
 ---
 
