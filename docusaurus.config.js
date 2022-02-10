@@ -14,7 +14,9 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'dhmlau', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'my-test-blog', // Usually your repo name.
+  deploymentBranch: 'main',
+  trailingSlack: false,
 
   presets: [
     [
