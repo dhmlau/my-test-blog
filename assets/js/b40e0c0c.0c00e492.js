@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[841],{9470:function(e){e.exports=JSON.parse('{"allTagsPath":"/my-test-blog/blog/tags","slug":"/my-test-blog/blog/tags/milestone-update","name":"Milestone Update","count":1,"permalink":"/my-test-blog/blog/tags/milestone-update"}')}}]);
