@@ -16,7 +16,7 @@ const config = {
   organizationName: 'dhmlau', // Usually your GitHub org/user name.
   projectName: 'my-test-blog', // Usually your repo name.
   deploymentBranch: 'main',
-  trailingSlack: false,
+  trailingSlash: false,
 
   presets: [
     [
