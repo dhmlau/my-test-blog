@@ -5,11 +5,13 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
+// url: 'https://dhmlau.github.io',
+// baseUrl: '/my-test-blog/',
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://dhmlau.github.io',
-  baseUrl: '/my-test-blog/',
+  url: 'https://blog.loopback.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
