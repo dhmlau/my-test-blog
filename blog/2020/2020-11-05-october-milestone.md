@@ -3,7 +3,7 @@ title: LoopBack 4 October 2020 Milestone Update
 date: 2020-11-05
 authors: jannyhou
 slug: october-2020-milestone
-tags: [Community, LoopBack]
+tags: [LoopBack, Milestone update]
 ---
 
 _Originally published on strongloop.com_
