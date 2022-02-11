@@ -6,8 +6,7 @@ authors: jannyhou
 tags: [LoopBack, Milestone update]
 ---
 
-_Originally published on strongloop.com_
-
+_Originally published on [strongloop.com](https://strongloop.com)_
 
 Hope you had a wonderful Thanksgiving for those who celebrate it! In November, LoopBack team focused on improving the context module and documentation, as well as bug fixes. The Toronto squad participated in the [CASCONxEVOKE](https://www-01.ibm.com/ibm/cas/cascon/) conference. Instead of a physical booth, we held a virtual one online. We welcomed [@nflaig](https://github.com/nflaig) as the new maintainer of [`loopback-next`](https://github.com/strongloop/loopback-next).
 

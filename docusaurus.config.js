@@ -79,11 +79,11 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: 'https://loopback.io/doc/en/lb4',
+                href: 'https://loopback.io/doc/en/lb4',
               },
               {
                 label: 'API Docs',
-                to: 'https://loopback.io/doc/en/lb4/apidocs.index.html'
+                href: 'https://loopback.io/doc/en/lb4/apidocs.index.html'
               }
             ],
           },

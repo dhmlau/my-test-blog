@@ -6,7 +6,7 @@ slug: 2020-oct-slack-qa
 tags: [Community, Slack]
 ---
 
-_Originally published on strongloop.com_
+_Originally published on [strongloop.com](https://strongloop.com)_
 
 It's been 6 months since we created the [Slack channel](https://join.slack.com/t/loopbackio/shared_invite/zt-8lbow73r-SKAKz61Vdao~_rGf91pcsw) for LoopBack community. Thanks to your support, over 500 members had joined and new members are joining almost everyday! Let's take a look at the October edition of the “Community Q&A Monthly Digest”, capturing some of the Q&A in this forum. 
 

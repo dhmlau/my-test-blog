@@ -6,7 +6,7 @@ slug: october-2020-milestone
 tags: [LoopBack, Milestone update]
 ---
 
-_Originally published on strongloop.com_
+_Originally published on [strongloop.com](https://strongloop.com)_
 
 In October, we were excited to see an increasing number of community contributions as people joined the [Hacktoberfest](https://strongloop.com/strongblog/2020-hacktoberfest/) event. This month we had pretty balanced improvements in each area of the framework, including context, health check, OpenAPI specification and documentations. Keep reading to learn about the recently added features!
 
